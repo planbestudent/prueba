@@ -1,0 +1,24 @@
+{
+  "name": "Academia Flow — Plan + Chatbot",
+  "short_name": "Academia Flow",
+  "start_url": ".",
+  "display": "standalone",
+  "scope": ".",
+  "lang": "es",
+  "theme_color": "#2563eb",
+  "background_color": "#f6f8fc",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
